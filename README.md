@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunkrns
-- 👀 I’m interested in Digital product development and creatinf functional user interfaces
+- 👀 I’m interested in developming digital products  and functional user interfaces
 - 🌱 I’m currently learning UIUX, React js, Blender 3D.
 - 💞️ I’m looking to collaborate on Developing digital products
 - 📫 How to reach me ...
